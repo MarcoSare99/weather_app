@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -100.8113,
+        "lat": 20.528
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "algo de nubes",
+            "icon": "02n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 19.84,
+        "feels_like": 18.92,
+        "temp_min": 19.84,
+        "temp_max": 19.84,
+        "pressure": 1016,
+        "humidity": 40,
+        "sea_level": 1016,
+        "grnd_level": 829
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.87,
+        "deg": 103,
+        "gust": 2.03
+    },
+    "clouds": {
+        "all": 14
+    },
+    "dt": 1699414222,
+    "sys": {
+        "type": 2,
+        "id": 2006595,
+        "country": "MX",
+        "sunrise": 1699361298,
+        "sunset": 1699401933
+    },
+    "timezone": -21600,
+    "id": 4014875,
+    "name": "Leon",
+    "cod": 200
+}
